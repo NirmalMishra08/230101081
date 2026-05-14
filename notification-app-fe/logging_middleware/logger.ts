@@ -1,4 +1,4 @@
-// logging_middleware/logger.ts
+
 
 const BASE_URL = '/api/logs';   
 
